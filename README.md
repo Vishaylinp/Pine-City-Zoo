@@ -17,7 +17,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, the app includes a navigable m
 
 ### 🗺️ Zoo Navigation Map
 
-![Zoo Map](images/map2.png)
+![Zoo Map](images/Map2.png)
 
 ---
 
@@ -29,7 +29,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, the app includes a navigable m
 
 ### 🏞️ Places in the Zoo
 
-![Places](images/places2.png)
+![Places](images/Places2.png)
 
 ---
 
